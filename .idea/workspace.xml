@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:github/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce8069e0-4fd4-470d-80a0-e512d05c1376" name="Default Changelist" comment="Compite" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/complete">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/initial">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/complete">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Kleverook/Schedule3.0" />
+        <option value="https://github.com/Kleverook/Schedule_complite" />
+        <option value="https://github.com/spring-guides/gs-serving-web-content" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1imjrdBdMePQVulVRyxMzQlbUj8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/complete/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pader\Desktop\test\Schedule\complete\src\main\resources\static" />
+      <recent name="C:\Users\pader\Desktop\test\Schedule\complete\src\main\resources\static\index" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pader\Desktop\Schedule_complite1\Schedule\complete\src" />
+      <recent name="C:\Users\pader\Desktop\test\Schedule\complete\src\main\java\com\schedule\system" />
+      <recent name="C:\Users\pader\Desktop\test\Schedule\complete\src\main\resources\templates" />
+      <recent name="C:\Schedule3.0\complete\src\main\java\com\schedule\system\google" />
+      <recent name="C:\test\complete\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Updater">
+    <configuration name="CalendarAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.schedule.system.google.CalendarAPI" />
+      <module name="serving-web-content.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.schedule.system.google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Updater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.schedule.system.google.Updater" />
+      <module name="serving-web-content.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.schedule.system.google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="complete [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/complete" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ServingWebContentApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="serving-web-content.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="schedule.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="schedule.web.ServingWebContentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServingWebContentApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="serving-web-content.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.schedule.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.schedule.web.ServingWebContentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServingWebContentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="serving-web-content.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.servingwebcontent.ServingWebContentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServingWebContentApplication (2)" />
+        <item itemvalue="Application.Updater" />
+        <item itemvalue="Application.CalendarAPI" />
+        <item itemvalue="Spring Boot.ServingWebContentApplication (1)" />
+        <item itemvalue="Gradle.complete [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLScriptSettings">
+    <option name="outputLayout" value="File per object.groovy" />
+    <option name="outputPath" value="C:\Users\Игорь\Desktop\Schedule_complite\Schedule" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce8069e0-4fd4-470d-80a0-e512d05c1376" name="Default Changelist" comment="Compite" />
+      <created>1602519861048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602519861048</updated>
+      <workItem from="1602519862648" duration="585000" />
+      <workItem from="1602520590575" duration="1885000" />
+      <workItem from="1602522497505" duration="28000" />
+      <workItem from="1602522557963" duration="6000" />
+      <workItem from="1602523239772" duration="812000" />
+      <workItem from="1602600127958" duration="10453000" />
+      <workItem from="1602679020623" duration="5578000" />
+      <workItem from="1602709048226" duration="13146000" />
+      <workItem from="1602771457138" duration="42034000" />
+      <workItem from="1602898719723" duration="556000" />
+      <workItem from="1602901093199" duration="362000" />
+      <workItem from="1602905019533" duration="330000" />
+      <workItem from="1602905413769" duration="12176000" />
+      <workItem from="1602929791705" duration="379000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1602523561594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602523561594</updated>
+    </task>
+    <task id="LOCAL-00002" summary="google good">
+      <created>1602696664047</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602696664047</updated>
+    </task>
+    <task id="LOCAL-00003" summary="15">
+      <created>1602777256701</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602777256701</updated>
+    </task>
+    <task id="LOCAL-00004" summary="15.2">
+      <created>1602782548060</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602782548060</updated>
+    </task>
+    <task id="LOCAL-00005" summary="site">
+      <created>1602808587144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602808587144</updated>
+    </task>
+    <task id="LOCAL-00006" summary="site2.0">
+      <created>1602848943178</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602848943178</updated>
+    </task>
+    <task id="LOCAL-00007" summary="site3.0">
+      <created>1602877646263</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602877646264</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="google good" />
+    <MESSAGE value="15" />
+    <MESSAGE value="15.2" />
+    <MESSAGE value="site" />
+    <MESSAGE value="site2.0" />
+    <MESSAGE value="site3.0" />
+    <MESSAGE value="Merge remote-tracking branch 'github/main' into main&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;complete/.gradle/6.5.1/executionHistory/executionHistory.bin&#10;#&#9;complete/.gradle/6.5.1/executionHistory/executionHistory.lock&#10;#&#9;complete/.gradle/6.5.1/fileHashes/fileHashes.bin&#10;#&#9;complete/.gradle/6.5.1/fileHashes/fileHashes.lock&#10;#&#9;complete/.gradle/6.5.1/javaCompile/classAnalysis.bin&#10;#&#9;complete/.gradle/6.5.1/javaCompile/javaCompile.lock&#10;#&#9;complete/.gradle/buildOutputCleanup/buildOutputCleanup.lock&#10;#&#9;complete/build/classes/java/main/com/schedule/system/database/DatabaseConnection.class&#10;#&#9;complete/build/classes/java/main/com/schedule/web/HTMLController.class&#10;#&#9;complete/build/tmp/compileJava/source-classes-mapping.txt&#10;#&#9;complete/src/main/java/com/schedule/system/database/DatabaseConnection.java" />
+    <MESSAGE value="Compite" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compite" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="236" key="#Notifications" timestamp="1602694527715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1602694527715" />
+    <state x="349" y="361" key="#SQL_Dialects" timestamp="1602779472152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="361" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1602779472152" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602602040085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602602040085" />
+    <state x="660" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602793555035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602793555035" />
+    <state x="743" y="414" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602851422024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="414" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1602851422024" />
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1602927580945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602927580945" />
+    <state x="640" y="274" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1602926404207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="512" y="217" key="DUMP_DIALOG_DIMENSION_KEY/0.0.1536.824@0.0.1536.824" timestamp="1602901353459" />
+    <state x="640" y="274" key="DUMP_DIALOG_DIMENSION_KEY/0.0.1920.1040@0.0.1920.1040" timestamp="1602926404207" />
+    <state x="83" y="16" width="1536" height="860" key="DiffContextDialog" timestamp="1602892465740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="66" y="13" width="1228" height="687" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602694528115" />
+    <state x="83" y="16" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602892465740" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1602926402390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602901445950" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602926402390" />
+    <state x="810" y="417" key="Github.ShareDialog" timestamp="1602929230516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602929230516" />
+    <state width="1877" height="184" key="GridCell.Tab.0.bottom" timestamp="1602929696024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602901456192" />
+    <state width="1877" height="184" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602929696024" />
+    <state width="1877" height="184" key="GridCell.Tab.0.center" timestamp="1602929696024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602901456192" />
+    <state width="1877" height="184" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602929696024" />
+    <state width="1877" height="184" key="GridCell.Tab.0.left" timestamp="1602929696024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602901456192" />
+    <state width="1877" height="184" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602929696024" />
+    <state width="1877" height="184" key="GridCell.Tab.0.right" timestamp="1602929696024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602901456192" />
+    <state width="1877" height="184" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602929696024" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1602929696017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602901454437" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602929696017" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1602929696017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602901454436" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602929696017" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1602929696017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602901454436" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602929696017" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1602929696017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602901454436" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602929696017" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1602778127439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602778127439" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1602778127431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602778127431" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1602778127431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602778127431" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1602778127431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602778127431" />
+    <state width="214" height="471" key="HiddenNamespacesPopup" timestamp="1602898764165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="214" height="471" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1602898764165" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1602777355671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602777355671" />
+    <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog" timestamp="1602892465740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602892465740" />
+    <state x="618" y="325" key="VCS.ChangelistChooser" timestamp="1602694397947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="325" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1602694397947" />
+    <state x="451" y="183" key="Vcs.Push.Dialog.v2" timestamp="1602848950273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602523566840" />
+    <state x="451" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602848950273" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1602924200134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1602924200134" />
+    <state x="794" y="155" width="316" height="245" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1602926261456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="155" width="316" height="245" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1602926261456" />
+    <state x="1020" y="178" key="com.intellij.database.dbimport.ImportDialog" timestamp="1602926246682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1020" y="178" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602926246682" />
+    <state x="690" y="324" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1602920615366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="324" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602920615366" />
+    <state x="803" y="222" width="651" height="595" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1602924920825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="222" width="651" height="595" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602924920825" />
+    <state x="733" y="411" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602892465725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602694337752" />
+    <state x="733" y="411" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602892465725" />
+    <state x="209" y="32" key="new project wizard" timestamp="1602520430609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602520430609" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1602720899364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602720899364" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602717170957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602717170957" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/complete/src/main/java/schedule/web/ServingWebContentApplication.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/complete/src/main/java/com/schedule/system/google/Updater.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/complete/src/main/java/com/schedule/system/database/DatabaseConnection.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
